@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\bytes\bytes\bin\Debug\bytes.exe.config
+C:\Users\USUARIO\source\repos\bytes\bytes\bin\Debug\bytes.exe
+C:\Users\USUARIO\source\repos\bytes\bytes\bin\Debug\bytes.pdb
+C:\Users\USUARIO\source\repos\bytes\bytes\obj\Debug\bytes.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\source\repos\bytes\bytes\obj\Debug\bytes.Form1.resources
+C:\Users\USUARIO\source\repos\bytes\bytes\obj\Debug\bytes.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\bytes\bytes\obj\Debug\bytes.csproj.GenerateResource.Cache
+C:\Users\USUARIO\source\repos\bytes\bytes\obj\Debug\bytes.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\bytes\bytes\obj\Debug\bytes.exe
+C:\Users\USUARIO\source\repos\bytes\bytes\obj\Debug\bytes.pdb
